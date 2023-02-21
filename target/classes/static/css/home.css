@@ -1,0 +1,78 @@
+body {
+    background-image: url("/img/icons8-Home.jpg");
+    background-size: cover;
+    text-align: center;
+}
+
+.container{
+    margin-top: 35%;
+    margin-bottom: 3%;
+}
+
+.row{
+    justify-content: center;
+}
+
+.container-center {
+  align-items: center;
+  top: 50px;
+  bottom: 50px;
+}
+
+h1 {
+  font-style: normal;
+  font-weight: 700;
+  font-size: 36px;
+  line-height: 44px;
+  letter-spacing: 4px;
+  text-transform: uppercase;
+}
+
+h2 {
+    font-family: 'Quicksand', sans-serif;
+    font-style: normal;
+    font-weight: 100;
+    font-size: 62px;
+    line-height: 70px;
+    letter-spacing: 0px;
+    text-transform: uppercase;
+    color: white;
+}
+
+h3 {
+    margin-top:50px;
+    font-family: 'Quicksand', sans-serif;
+    font-size: 24px;
+    letter-spacing: 4px;
+    font-weight: 100;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color: white;
+}
+
+.btn {
+  background-color: var(--primary-color);
+  width: 100%;
+  color: white;
+  font-weight: bold;
+  font-size: 12px;
+  letter-spacing: 4px;
+  text-transform: uppercase;
+  padding: 10px 0;
+  margin-bottom: 20px;
+}
+
+.toggle-register {
+  cursor: pointer;
+  margin-bottom: 20px;
+}
+
+.toggle-register:hover {
+  color: var(--primary-color);
+}
+
+.site-wrapper {
+    width: 100%;
+}
+
+

@@ -1,0 +1,9 @@
+body {
+  background-image: url("/img/pierre-chatel-inverted.jpg");
+  background-size: cover;
+}
+
+.container {
+    padding-top: 30px;
+}
+
