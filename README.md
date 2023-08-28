@@ -37,6 +37,7 @@ personalized profile and information about their rented address or unit.
 Through their log-in credentials, residents can conveniently make rent payments,
 submit maintenance requests, engage with the community, and access important 
 property-related updates.
+
 ![Alt text](/src/main/resources/static/gifs/Housee_App_gif_userLogIn.gif "User Log-in")
 
 ### Unique Access to Property:
@@ -49,6 +50,7 @@ an overview of their managed properties. This dashboard includes a comprehensive
 display of resident requests, showcasing the current status of these requests, 
 along with key metrics. The occupancy status, financial information, and 
 communication tools are readily accessible.
+
 ![Alt text](/src/main/resources/static/gifs/Housee_App_gif_managerDashboard.gif "HomePages")
 
 #### For Residents:
@@ -56,6 +58,7 @@ Residents are directly linked to information about their rented space, whether
 it's an individual address or a unit within an apartment complex. This 
 connection empowers residents to effortlessly report issues and engage with 
 property managers through efficient features.
+
 ![Alt text](/src/main/resources/static/gifs/Housee_App_gif_managerLogInHousee_App_gif_userDashboard.gif "HomePages")
 
 ## Interactive Issue Management Feature
@@ -109,7 +112,6 @@ for overseeing the resolution process. Once a reported issue has been
 resolved, property managers can perform actions to signify its completion.
 
 ![Alt text](/src/main/resources/static/gifs/Housee_App_gif_managerDashboard.gif "Manager Dashboard")
-
 
 ## Technologies and Stack
 The visual design of this site is implemented using Bootstrap, HTML and CSS.
