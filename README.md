@@ -6,7 +6,7 @@ in conjunction with Spring Data JPA
 
 ![Alt text](/src/main/resources/static/gifs/Housee_App_gif_Wecome_page.gif "Welcome")
 
-:desktop_computer:  [Link to video_TBD](https://www.youtube.com/watch?v=Zw-IGMnDgfY_TBD)
+:desktop_computer:  [Link to video_TBD](https://www.youtube.com/TBD_watch?v=Zw-IGMnDgfY)
 
 ## Contents
 
