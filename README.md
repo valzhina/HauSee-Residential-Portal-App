@@ -14,7 +14,7 @@ in conjunction with Spring Data JPA
 - [Twilio API Integration](https://github.com/valzhina/fertility_app#twilio-api-integration)
 
 ## Features
-![Alt text](/static/gifs/....gif "Log-in")
+![Alt text](/src/main/resources/static/gifs/Housee_App_gif_Wecome_page.gif "Log-in")
 ### User Registration and Log-In:
 The app offers a comprehensive user registration and log-in system that caters 
 to two distinct groups: building managers and residents. This ensures 
